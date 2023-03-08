@@ -17,7 +17,7 @@ public class holamundo {
         String nombre;
         System.out.println("ingresa tu nombre");
         nombre = leer.next( );
-        System.out.println("holamundo soy" + nombre + " y estoy programando en yaba");
+        System.out.println("holamundo soy" + nombre + " y estoy programando en java.");
     }
     
 }
