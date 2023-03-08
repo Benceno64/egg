@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication2;
+package javaapplication4;
 
 /**
  *
  * @author drago
  */
-public class JavaApplication2 {
+public class JavaApplication4 {
 
     /**
      * @param args the command line arguments
