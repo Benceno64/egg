@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 //Dada una cantidad de grados centígrados se debe mostrar su equivalente en grados Fahrenheit. La fórmula correspondiente es: F = 32 + (9 * C / 5).
-package encuentro1_1;
+package guia2;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author drago
  */
-public class encentro1_4 {
+public class guia1_4 {
     public static void main(String[] args) {
       Scanner leer = new Scanner (System.in);
         System.out.println("escribe los grados que quieres convertir a Fahrenheit");

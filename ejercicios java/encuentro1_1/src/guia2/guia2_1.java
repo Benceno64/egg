@@ -5,7 +5,7 @@
  */
 //Escribir un programa que pida dos números enteros por teclado y calcule la suma de los dos. El programa deberá después mostrar el resultado de la suma
 
-package encuentro1_1;
+package guia2;
 
 import java.util.Scanner; 
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author drago
  */
-public class Encuentro1_1 {
+public class guia2_1 {
 
     /**
      * @param args the command line arguments

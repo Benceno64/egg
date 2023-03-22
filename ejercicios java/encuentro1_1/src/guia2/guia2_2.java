@@ -5,7 +5,7 @@
  */
 //Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre por pantalla.
 
-package encuentro1_1;
+package guia2;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author drago
  */
-public class encuentro1_2 {
+public class guia2_2 {
     public static void main(String[] args){
         Scanner leer = new Scanner (System.in);
         System.out.println("ingresa tu nombre");

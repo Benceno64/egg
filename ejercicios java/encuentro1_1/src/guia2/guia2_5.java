@@ -6,7 +6,7 @@
 //Escribir un programa que lea un número entero por teclado y muestre por pantalla el doble, el triple y la raíz cuadrada de ese número. 
 //Nota: investigar la función Math.sqrt().
 
-package encuentro1_1;
+package guia2;
 
 import java.util.Scanner;
 
@@ -14,13 +14,13 @@ import java.util.Scanner;
  *
  * @author drago
  */
-public class encuentro1_5 {
+public class guia2_5 {
     public static void main(String[] args){
         Scanner leer = new Scanner(System.in);
             System.out.println("escribe un numero entero");
                 int num = leer.nextInt();
              System.out.println("el doble de tu numero es " + num * 2 );
                  System.out.println("el triple de tu numero es " + num * 3 );
-                    System.out.println("la raiz cuadrada de tu numero es "  + (Math.sqrt(num))) ;                
+                    System.out.println("la raiz cuadrada de tu num es "  + (Math.sqrt(num))) ;                
     }
 }
